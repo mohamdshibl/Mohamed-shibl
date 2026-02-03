@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mohamed Shibl
 
-✨ Creating bugs since 2022  
+✨ Creating bugs since 2017  
 📱 Flutter Developer with ~2 years of experience building scalable mobile apps
 
 📚 I'm currently learning:
@@ -20,7 +20,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Dart, Python, JavaScript
+- **Languages:** Dart, swift, Java
 - **Frameworks:** Flutter, Firebase
 - **State Management:** Bloc, Riverpod, Provider
 - **Tools:** Git, GitHub Actions, REST APIs, Postman, CI/CD
@@ -33,5 +33,5 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-shibl
+- Email: Mohamed.shibl.097@email.com
