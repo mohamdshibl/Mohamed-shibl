@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-📱 Flutter Developer with ~2 years of experience building scalable mobile apps  
+📱 Flutter Developer with ~3 years of experience building scalable mobile apps  
 
 📚 **I'm currently learning:**
 - 🏗 Advanced Flutter architecture (Clean Architecture, MVVM)
